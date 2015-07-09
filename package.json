@@ -6,7 +6,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pitzcarraldo/synonymizer.git"
+    "url": "git+https://github.com/Pitzcarraldo/synonymizer.git"
   },
   "dependencies": {
     "lodash": "^3.10.0",
@@ -29,5 +29,12 @@
     "synonymizer",
     "natural language process"
   ],
-  "license": "BSD"
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Pitzcarraldo/synonymizer/issues"
+  },
+  "homepage": "https://github.com/Pitzcarraldo/synonymizer#readme",
+  "directories": {
+    "test": "test"
+  }
 }
