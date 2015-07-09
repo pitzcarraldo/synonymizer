@@ -1,4 +1,4 @@
-[Build Status](https://api.travis-ci.org/Pitzcarraldo/synonymizer.svg)
+[![Build Status](https://api.travis-ci.org/Pitzcarraldo/synonymizer.svg)][travis]
 
 # Synonymizer
 
