@@ -1,0 +1,33 @@
+{
+  "author": "Minkyu Cho <mrnoname@naver.com>",
+  "name": "synonymizer",
+  "description": "A Simple Synonymizer for Node.js",
+  "version": "0.0.1",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pitzcarraldo/synonymizer.git"
+  },
+  "dependencies": {
+    "lodash": "^3.10.0",
+    "csv": "^0.4.5"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "chai": "^3.0.0"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "synonym",
+    "synonyms",
+    "synonymize",
+    "synonymizer",
+    "natural language process"
+  ],
+  "license": "BSD"
+}
