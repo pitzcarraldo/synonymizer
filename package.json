@@ -2,7 +2,7 @@
   "author": "Minkyu Cho <mrnoname@naver.com>",
   "name": "synonymizer",
   "description": "A Simple Synonymizer for Node.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./lib",
   "repository": {
     "type": "git",
