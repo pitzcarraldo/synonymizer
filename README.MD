@@ -37,6 +37,6 @@ Returns an new instance of Synonymizer.
 
 ### synonymizer.synonymize(inputString)
 
-* `inputString`: The string in solr format (see http://wiki.apache.org/solr/AnalyzersTokenizersTokenFilters#solr.SynonymFilterFactory)
+* `inputString`: The string for syonymize.
 
 Returns string replaced by synonyms.
