@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Pitzcarraldo/synonymizer.svg?branch=master)](https://travis-ci.org/Pitzcarraldo/synonymizer)
+[![Build Status](https://travis-ci.org/Pitzcarraldo/synonymizer.svg?branch=master)](https://travis-ci.org/pitzcarraldo/synonymizer)
 
 Synonymizer
 ===========
